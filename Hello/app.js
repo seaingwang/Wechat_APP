@@ -33,6 +33,12 @@ App({
       }
     })
   },
+  onShow: function(){
+    // Do something when show.
+  },
+  onError: function(msg){
+    console.log(msg)
+  },
   globalData: {
     userInfo: null
   }
