@@ -1,6 +1,6 @@
 {
   "backgroundTextStyle":"light",
   "navigationBarTitleText": "Check for the Log",
-  "navigationBarBackgroundColor": "#f0f",
-  "navigationBarTextStyle":"black"
+  "navigationBarBackgroundColor": "#fff000",
+  "navigationBarTextStyle":"white"
 }
